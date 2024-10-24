@@ -1,0 +1,71 @@
+
+
+.navbar {
+  background:#222831 !important; 
+  color: #EEEEEE !important;
+}
+
+.navbar a {
+  color: #EEEEEE;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color:#EEEEEE ;
+}
+
+.btn-primary {
+  background-color: #C4B6B6;
+  border-color: #C4B6B6;
+  color:#222831;
+}
+
+.btn-primary:hover {
+  background-color: #7E7474;
+  border-color: #7E7474;
+}
+
+.btn-secondary {
+  background-color: #C4B6B6;
+  border-color: #C4B6B6;
+  color:#222831;
+}
+
+.btn-secondary:hover {
+  background-color: #7E7474;
+  border-color: #7E7474;
+  
+}
+.loginbtn{
+  color: #EEEEEE !important;
+
+}
+.modal-content {
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.modal-header, .modal-footer {
+  border: none;
+}
+
+.list-group-item {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+.card-body{
+background-color: #222831;
+border-color: #222831;
+
+color: #EEEEEE;
+}
+.form-control:focus-visible{
+  border-color: #222831 !important;
+  box-shadow: none !important;
+}
